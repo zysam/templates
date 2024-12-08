@@ -18,4 +18,6 @@ bolt.new/~/github.com/zysam/templates/tree/main/shadcn-ui-01?title=shadcn-ui-01
 
 ## Built-in Templates
 
-- [shadcn-ui-01](./shadcn-ui-01)
+- [shadcn-starter](./shadcn-starter): basic shadcn-ui template
+
+- [shadcn-ui-01](./shadcn-ui-01): shadcn-ui template with sidebar
