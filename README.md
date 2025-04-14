@@ -20,6 +20,8 @@ bolt.new/~/github.com/zysam/templates/tree/main/shadcn-ui-01?title=shadcn-ui-01
 
 - [react-tailwind-starter](./react-tailwind-starter): react tailwind starter.[bolt.new](https://bolt.new/~/github.com/zysam/templates/tree/main/react-tailwind-starter?title=react-tailwind-starter)
 
+- [react-tailwind-v4](./react-tailwind-v4): react tailwind v4 starter.[bolt.new](https://bolt.new/~/github.com/zysam/templates/tree/main/react-tailwind-v4?title=react-tailwind-v4)
+
 - [shadcn-starter](./shadcn-starter): basic shadcn-ui template.[bolt.new](https://bolt.new/~/github.com/zysam/templates/tree/main/shadcn-starter?title=shadcn-starter)
 
 - [shadcn-ui-01](./shadcn-ui-01): shadcn-ui template with sidebar.[bolt.new](https://bolt.new/~/github.com/zysam/templates/tree/main/shadcn-ui-01?title=shadcn-ui-01)
